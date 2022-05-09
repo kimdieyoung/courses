@@ -7,6 +7,9 @@ certificates:
 >>
 >Stepik: 
 >>[Введение в базы данных](https://stepik.org/cert/1063366)
+>>
 >>[Интерактивный тренажер по SQL](https://stepik.org/cert/1304588)
+>>
 >>[Программирование на Python](https://stepik.org/cert/1376725)
+>>
 >>[Алгоритмы: теория и практика. Методы](https://stepik.org/cert/1458278)
