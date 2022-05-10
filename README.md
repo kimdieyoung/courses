@@ -2,6 +2,7 @@
 
 [codewars](https://www.codewars.com/users/kim_die_young)
 [stepik](https://stepik.org/users/315788684)
+
 certificates:
 >FreeCodeCamp:
 >>[Data Analysis with Python](https://www.freecodecamp.org/certification/Kim_die_young/data-analysis-with-python-v7)
