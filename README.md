@@ -18,3 +18,5 @@ certificates:
 >>[Алгоритмы: теория и практика. Методы](https://stepik.org/cert/1458278)
 >>
 >>[Hadoop. Система для обработки больших объемов данных](https://stepik.org/cert/2038273)
+>>
+>>[Оконные функции SQL](https://stepik.org/cert/1536556)
