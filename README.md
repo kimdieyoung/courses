@@ -16,5 +16,5 @@ certificates:
 >>[Программирование на Python](https://stepik.org/cert/1376725)
 >>
 >>[Алгоритмы: теория и практика. Методы](https://stepik.org/cert/1458278)
-
-[Hadoop. Система для обработки больших объемов данных](https://stepik.org/cert/2038273)
+>>
+>>[Hadoop. Система для обработки больших объемов данных](https://stepik.org/cert/2038273)
